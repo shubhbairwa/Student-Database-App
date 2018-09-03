@@ -1,0 +1,8 @@
+# Student-Database-App
+An application to manage student enrollments and balance.
+This app take input form the user about 
+1-How many students 
+2-Bio data of students  
+3-Which Course they want to enroll
+ 
+And this app also handle the payment and balance of the students.
